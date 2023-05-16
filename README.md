@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Enlace Urbano](https://github.com/orgs/Enlace-Urbano/repositories)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently doing <a href="https://www.theodinproject.com/" >**The Odin Project**</a>
 
 - 📫 How to reach me **llusa.lautaro@gmail.com**
 
