@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Lautaro Llusa Damiani</h1>
 <h3 align="center">A passionate junior fullstack developer based in Barcelona</h3>
 
-- 🔭 I’m currently working on [Enlace Urbano](https://github.com/orgs/Enlace-Urbano/repositories)
+- 🔭 I’m currently on <a href="https://res.cloudinary.com/practicaldev/image/fetch/s--EUX_iHVM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cdn-images-1.medium.com/max/800/1%2A7gQIHDGCpEocaUTpQBLpdw.jpeg" > **Tutorial Hell**</a>
 
 - 🌱 I’m currently doing <a href="https://www.theodinproject.com/" >**The Odin Project**</a>
 
