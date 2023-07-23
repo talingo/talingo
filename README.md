@@ -2,7 +2,7 @@
  <tr><td><a href="README.md"><img src="images/en.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_es.md"><img src="images/es.png" height="13"> Español</a></td></tr>
 </table>
-<h1 align="center">Hi 👋, I'm Lautaro Llusa Damiani</h1>
+<h1 align="center">Hi 👋, I'm Lautaro</h1>
 <h3 align="center">A passionate junior fullstack developer based in Barcelona</h3>
 
 - 🔭 I’m currently on <a href="https://res.cloudinary.com/practicaldev/image/fetch/s--EUX_iHVM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cdn-images-1.medium.com/max/800/1%2A7gQIHDGCpEocaUTpQBLpdw.jpeg" > **Tutorial Hell**</a>
